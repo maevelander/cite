@@ -47,6 +47,10 @@ Cite plugin is made for academics or other people that publish scholarly article
 
 The plugin has some very basic styling which should work for most users, but if you want to customise it further you can do that easily via your theme CSS.
 
+= Last accessed date in cite is appearing wrong - how can I fix it? =
+If you're using a caching plugin, or a service such as Cloudflare, then you may need to exclude the main cite.php file from caching.
+
+
 = Can I use Cite plugin in my Language? =
 
 Yes, the plugin is internationalized and ready for translation. If you would like to help with a translation please [contact me](http://www.enigmaplugins.com/contact)
